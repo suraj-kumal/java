@@ -4,9 +4,9 @@ public class classandobject {
     private int number;
 
     // constructor
-    classandobject(String data, int number) {
-        this.data = data;
-        this.number = number;
+    classandobject(String d, int n) {
+        this.data = d;
+        this.number = n;
         System.out.println(this.data);
         System.out.println(this.number);
 
